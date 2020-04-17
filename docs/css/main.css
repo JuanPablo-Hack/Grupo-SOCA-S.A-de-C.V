@@ -268,7 +268,7 @@ p {
    ==================================================
    ================================================== */
 .bg-overlay {
-  background-color: rgba(0,0,0,0.8);
+ 
   min-width: 100%;
   min-height: 120%;
   width: auto;
@@ -314,7 +314,7 @@ p {
   height: auto;
 }
 .text-logo {
-  color: #2098f5;
+  color: green;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
   font-size: 3em;
@@ -331,7 +331,7 @@ p {
   margin: 15px 0;
   text-transform: uppercase;
 }
-.obak {  color: #2098f5 }
+.obak {  color: green; }
 /* * ==========================================================================
         2.2.3.Countdown
 * ==========================================================================
