@@ -11,14 +11,14 @@
   color: #8bc34a;
 }
 .fa-social {
-  background: none repeat scroll 0 0 #8bc34a;
+  background: none repeat scroll 0 0 #00B2A9;
 }
 .icon rect, .icon line {
-  fill: #8bc34a;
-  stroke: #8bc34a;
+  fill: #00B2A9;
+  stroke: #00B2A9;
 }
 .title {
-  color: #8bc34a;
+  color: #00B2A9;
 }
 .contact-title {
   color: #ffffff;
@@ -34,10 +34,10 @@
 	border: 1px solid #8bc34a;
 }
 .contact {
-  background-color: #8bc34a;
+  background-color: #00B2A9;
 }
 #footer {
-  background-color: #8bc34a;
+  background-color: #da291c;
 }
 .btn-contact {
   background-color: transparent;
